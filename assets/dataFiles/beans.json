@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Ethiopian Yirgacheffe Single-Origin Coffee Beans",
+        "img": "../assets/img/beans/coffee  (1).png",
+        "shortDescription": "Embark on a journey of flavor with Ethiopian Yirgacheffe Single-Origin Coffee Beans. Renowned for their bright acidity and captivating floral notes, these beans offer a unique blend of citrusy and wine-like flavors. A favorite among connoisseurs seeking a distinct coffee experience.",
+        "category": "Beans",
+        "price": 23.99
+    },
+    {
+        "id": "2",
+        "title": "Colombian Supremo Premium Coffee Beans",
+        "img": "../assets/img/beans/coffee  (2).png",
+        "shortDescription": "Indulge in the well-balanced flavor of Colombian Supremo Premium Coffee Beans. With a medium body, hints of nuttiness, and bright acidity, these beans are a versatile and popular choice for coffee lovers seeking a rich and satisfying cup.",
+        "category": "Beans",
+        "price": 27.99
+    },
+    {
+        "id": "3",
+        "title": "Brazilian Santos Reserve Coffee Beans",
+        "img": "../assets/img/beans/coffee  (3).png",
+        "shortDescription": "Savor the smooth and mild profile of Brazilian Santos Reserve Coffee Beans. With low acidity, a medium body, and delightful notes of chocolate, these beans offer a comforting and approachable cup of coffee.",
+        "category": "Beans",
+        "price": 19.99
+    },
+    {
+        "id": "4",
+        "title": "Kenyan AA Bold Coffee Beans",
+        "img": "../assets/img/beans/coffee  (4).png",
+        "shortDescription": "Experience the bold and full-bodied flavor of Kenyan AA Bold Coffee Beans. Grown at high altitudes, these beans boast a bright acidity, wine-like notes, and a complex taste profile. A must-try for coffee aficionados seeking a robust experience.",
+        "category": "Beans",
+        "price": 32.99
+    },
+    {
+        "id": "5",
+        "title": "Sumatran Mandheling Premium Coffee Beans",
+        "img": "../assets/img/beans/coffee  (5).png",
+        "shortDescription": "Indulge in the full body and low acidity of Sumatran Mandheling Premium Coffee Beans. With earthy and herbal notes, these beans create a rich and bold coffee experience for those who appreciate depth and intensity.",
+        "category": "Beans",
+        "price": 24.99
+    },
+    {
+        "id": "6",
+        "title": "Costa Rican Tarrazú Specialty Coffee Beans",
+        "img": "../assets/img/beans/coffee  (6).png",
+        "shortDescription": "Celebrate the bright acidity and crisp, clean taste of Costa Rican Tarrazú Specialty Coffee Beans. With a medium body and citrusy, fruity undertones, these beans offer a delightful and refreshing coffee experience.",
+        "category": "Beans",
+        "price": 28.99
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": "10",
+        "title": "Premium Blend Espresso Grind",
+        "img": "../assets/img/grinded/grinded (1).png",
+        "shortDescription": "Indulge in the rich flavor and captivating aroma of our Premium Blend Espresso Grind coffee. Immerse yourself in a symphony of taste, where every sip is a journey of delight. Crafted with care and precision, this coffee delivers a sensory experience like no other. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Grinded",
+        "price": 19.99
+    },
+    {
+        "id": "11",
+        "title": "Classic French Roast Ground Coffee",
+        "img": "../assets/img/grinded/grinded (2).png",
+        "shortDescription": "Embark on a journey of flavor with our Classic French Roast Ground Coffee. Immerse yourself in the enticing flavor profile that defines this timeless blend. Let each sip transport you to the heart of French coffee culture. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Grinded",
+        "price": 21.99
+    },
+    {
+        "id": "12",
+        "title": "Single-Origin Colombian Medium Grind",
+        "img": "../assets/img/grinded/grinded (3).png",
+        "shortDescription": "Savor the exceptional taste of our Single-Origin Colombian Medium Grind coffee. Immerse yourself in the distinct flavors that characterize Colombian coffee. Let each cup be a celebration of quality and craftsmanship. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Grinded",
+        "price": 24.99
+    },
+    {
+        "id": "13",
+        "title": "Bold Italian Roast Ground Coffee",
+        "img": "../assets/img/grinded/grinded (4).png",
+        "shortDescription": "Delight in the bold flavors of our Bold Italian Roast Ground Coffee. Experience the intensity and character of an authentic Italian roast with every sip. Elevate your coffee ritual with this robust and satisfying blend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Grinded",
+        "price": 22.99
+    }
+]

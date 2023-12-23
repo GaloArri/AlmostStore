@@ -1,0 +1,18 @@
+[
+    {
+        "id": "99998",
+        "title": "Artisan Calico Hill Coffee Mug in 6 Colors",
+        "img": "https://images.squarespace-cdn.com/content/v1/5720472c746fb94704c53d5b/1585608942185-J1OPOLSYNTEEPR53GCDS/20200329_calico_hill_mug_blue_0001.jpg?format=1500w",
+        "shortDescription": "Experience the artistry of the Calico Hill Coffee Mug in 6 Colors. Each mug is a unique masterpiece, offering a delightful blend of form and function. Elevate your coffee moments with this exquisite piece of pottery, available in a variety of vibrant colors to suit your style. A perfect addition to your collection.",
+        "category": "Pottery",
+        "price": 29.99
+    },
+    {
+        "id": "9997",
+        "title": "Tactile Matter Sunset Cup",
+        "img": "https://www.seriouseats.com/thmb/GGtWXRW5GSp8T-ORgsI7WQr4rdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__02__20160222-mugs-wes-rowe-1-5b65326399f743688c458a67fc1f1405.jpg",
+        "shortDescription": "Immerse yourself in the artistry of the Tactile Matter Sunset Cup. Crafted with precision and passion, this cup offers a tactile experience that enhances your enjoyment of every sip. The unique design captures the essence of sunset hues, creating a visual and sensory delight. Elevate your coffee rituals with this exceptional piece of pottery.",
+        "category": "Pottery",
+        "price": 24.99
+    }
+]

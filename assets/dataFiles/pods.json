@@ -1,0 +1,26 @@
+[
+    {
+        "id": "17",
+        "title": "Premium Blend Single-Serve Coffee Pods",
+        "img": "../assets/img/pod/pod (1).png",
+        "shortDescription": "Indulge in the convenience of our Premium Blend Single-Serve Coffee Pods. Experience a harmonious blend of flavors that captivate your senses with every sip. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Pods",
+        "price": 9.99
+    },
+    {
+        "id": "18",
+        "title": "Classic Roast Single-Serve Coffee Pods",
+        "img": "../assets/img/pod/pod (2).png",
+        "shortDescription": "Experience the rich flavors of our Classic Roast Single-Serve Coffee Pods. Immerse yourself in a symphony of taste, where each pod delivers a distinctive and satisfying coffee experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Pods",
+        "price": 11.99
+    },
+    {
+        "id": "19",
+        "title": "Signature Blend Gourmet Coffee Pods",
+        "img": "../assets/img/pod/pod (3).png",
+        "shortDescription": "Savor the delightful taste of our Signature Blend Gourmet Coffee Pods. Delight your palate with a unique combination of flavors crafted for an exceptional coffee experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Pods",
+        "price": 14.99
+    }
+]

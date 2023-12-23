@@ -1,0 +1,34 @@
+[
+    {
+        "id": "13",
+        "title": "Premium Instant Bliss Coffee",
+        "img": "../assets/img/instant/instant (1).png",
+        "shortDescription": "Discover the convenience and indulge in the rich flavor of our Premium Instant Bliss Coffee. Experience the perfect balance of convenience and quality in every cup. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Instant",
+        "price": 16.99
+    },
+    {
+        "id": "14",
+        "title": "Classic Instant Delight Coffee",
+        "img": "../assets/img/instant/instant (2).png",
+        "shortDescription": "Indulge in the instant goodness of our Classic Instant Delight Coffee. Elevate your coffee experience with the perfect blend of convenience and quality. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Instant",
+        "price": 18.99
+    },
+    {
+        "id": "15",
+        "title": "Signature Instant Euphoria Coffee",
+        "img": "../assets/img/instant/instant (3).png",
+        "shortDescription": "Experience the instant satisfaction of our Signature Instant Euphoria Coffee. Dive into a world of flavor with the perfect balance of convenience and premium taste. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Instant",
+        "price": 20.99
+    },
+    {
+        "id": "16",
+        "title": "Decadent Instant Perfection Coffee",
+        "img": "../assets/img/instant/instant (4).png",
+        "shortDescription": "Delight in the instant perfection of our Decadent Instant Perfection Coffee. Elevate your instant coffee experience with a blend crafted for perfection. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed egestas odio. Nulla suscipit malesuada lorem iaculis tristique. Fusce quis rhoncus dui, sit amet tempor ex. Curabitur urna nisl, feugiat vel ante at.",
+        "category": "Instant",
+        "price": 22.99
+    }
+]

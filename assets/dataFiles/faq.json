@@ -1,0 +1,52 @@
+[
+    {
+        "id": "One",
+        "question": "What types of coffee do you offer in your store?",
+        "answer": "We offer a wide variety of coffees, from single-origin beans to special blends, ground coffee, capsules, and more. Explore our selection to discover unique flavors from around the world."
+    },
+    {
+        "id": "Two",
+        "question": "How do I choose the right coffee for me?",
+        "answer": "Our team of coffee experts is here to help. You can explore our product descriptions, tasting guides, and also reach out to our customer service for personalized recommendations."
+    },
+    {
+        "id": "Three",
+        "question": "What is the difference between different coffee brewing methods?",
+        "answer": "On our site, we provide detailed information on various brewing methods, such as espresso, pour-over, French press, among others. We also offer accessories and tools for each method."
+    },
+    {
+        "id": "Four",
+        "question": "Can I purchase gifts for coffee lovers on your site?",
+        "answer": "Absolutely! We have a selection of carefully curated gifts, from starter kits for beginners to premium accessories for the most dedicated enthusiasts."
+    },
+    {
+        "id": "Five",
+        "question": "What are the benefits of buying single-origin coffee beans?",
+        "answer": "Single-origin beans allow coffee lovers to explore and appreciate the specific flavors of a region. Each batch has unique characteristics that highlight the diversity of the coffee world."
+    },
+    {
+        "id": "Six",
+        "question": "What type of grinder do you recommend for grinding coffee at home?",
+        "answer": "In our accessories section, we offer a variety of grinders recommended for grinding fresh coffee beans at home. Depending on your preferences, you can choose between manual or electric grinders."
+    },
+    {
+        "id": "Seven",
+        "question": "How should I properly store coffee beans to maintain their freshness?",
+        "answer": "We recommend storing coffee beans in an airtight container in a cool, dark place. Avoid direct sunlight and heat to preserve the freshness and essential oils of the coffee."
+    },
+    {
+        "id": "Eight",
+        "question": "Do you offer decaffeinated coffee?",
+        "answer": "Yes, we have decaffeinated coffee options for those who want to enjoy the flavor of coffee without caffeine."
+    },
+    {
+        "id": "Nine",
+        "question": "What is your return policy?",
+        "answer": "Our return policy ensures customer satisfaction. If you are not happy with your purchase, contact us within the specified period for assistance."
+    },
+    {
+        "id": "Ten",
+        "question": "How can I track my order?",
+        "answer": "We provide an online order tracking system. Once your order is shipped, you will receive an email with the corresponding tracking information."
+    }
+]
